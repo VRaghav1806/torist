@@ -1,0 +1,54 @@
+=== TOURIST PLACES NEEDING IMAGES ===
+Total places: 30
+
+Places by state:
+
+Dadara & Nagar Havelli (5 places):
+  1. Hirwa Van Garden
+  2. Dudhni Lake
+  3. Satmalia Deer Park
+  4. Kauncha
+  5. Bindrabin Temple
+
+Lakshadweep (2 places):
+  1. Thinnakara Island
+  2. Amindivi Islands
+
+Madhya Pradesh (3 places):
+  1. Khajuraho Temples
+  2. Kanha National Park
+  3. Bhimbetka Caves
+
+Maharashtra (3 places):
+  1. Ajanta and Ellora Caves
+  2. Mumbai Marine Drive
+  3. Tadoba National Park
+
+Manipur (1 places):
+  1. Kangla Fort
+
+Mizoram (6 places):
+  1. Reieiek
+  2. Phawngpui Peak
+  3. Tam Dil Lake
+  4. Murlen National Park
+  5. Falkawn Village
+  6. Palak Lake
+
+Puducherry (1 places):
+  1. French War Memorial
+
+Punjab (4 places):
+  1. Wagah Border
+  2. Rock Garden (Chandigarh)
+  3. Bhatinda Fort
+  4. Qila Mubarak
+
+Sikkim (3 places):
+  1. Nathula Pass
+  2. Yumthang Valley
+  3. Zuluk
+
+Tamil Nadu (2 places):
+  1. Meenakshi Amman Temple
+  2. Brihadeeswarar Temple
